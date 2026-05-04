@@ -1,0 +1,17 @@
+{
+    "schema": 1,
+    "rules": [
+        {
+            "id": "delete-bainayouxi-url",
+            "enabled": true,
+            "match": {
+                "fileName": "白拿游戏网站.url",
+                "contentContainsAny": [
+                    "白拿游戏",
+                    "acggw.cc"
+                ]
+            },
+            "action": "delete"
+        }
+    ]
+}
