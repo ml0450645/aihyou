@@ -1,1 +1,30 @@
-
+{
+    "schema": 1,
+    "configVersion": 1001,
+    "generatedAt": "2026-05-04T17:12:05+00:00",
+    "minClientVersion": "1.1.0",
+    "officialDomains": [
+        "https://aihyou.top",
+        "https://aihyou.cc"
+    ],
+    "supportUrl": "https://t.me/AiHY6",
+    "announcement": "",
+    "files": [
+        {
+            "path": "codes/short-codes.json",
+            "sha256": "a67ecaf9929abc1e3f6bc50782481fbefb4d7e74b49c3a317df9a38b8ef5f887"
+        },
+        {
+            "path": "rules/ad-rules.json",
+            "sha256": "efca9dda5a5f6ea7bc8ce6b20262d6953be375032f394c7fdda9932fff895fc4"
+        },
+        {
+            "path": "promotions/promotions.json",
+            "sha256": "20a60d74a0df5874855606ec2bcd5b8f60f748ce27af359565b4207c4b62ace6"
+        },
+        {
+            "path": "client/latest.json",
+            "sha256": "31772f89e2800ad6d1a8d349af327da9bbff702ee987ea16d1bfbaa113761625"
+        }
+    ]
+}
