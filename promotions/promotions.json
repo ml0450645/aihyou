@@ -1,0 +1,25 @@
+{
+    "schema": 1,
+    "files": [
+        {
+            "id": "official-site",
+            "enabled": true,
+            "fileName": "爱H游网站.url",
+            "targets": [
+                "root",
+                "ad-file-directory"
+            ],
+            "content": "[InternetShortcut]\r\nURL=https://aihyou.top/\r\n"
+        },
+        {
+            "id": "support",
+            "enabled": true,
+            "fileName": "爱H游-最新网址.txt",
+            "targets": [
+                "root",
+                "ad-file-directory"
+            ],
+            "content": "爱H游官网：https://aihyou.top/\r\n客服：https://t.me/AiHY6\r\n"
+        }
+    ]
+}
