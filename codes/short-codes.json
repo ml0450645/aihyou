@@ -1,0 +1,26 @@
+{
+    "schema": 1,
+    "defaultShortCode": "aihyou.top",
+    "shortCodes": {
+        "aihyou.top": {
+            "type": "passwordPool",
+            "passwordProfileIds": [
+                "pwd-20260504162702-mfmswh"
+            ]
+        },
+        "aihyou.cc": {
+            "type": "alias",
+            "target": "aihyou.top"
+        }
+    },
+    "passwordProfiles": [
+        {
+            "id": "pwd-20260504162702-mfmswh",
+            "label": "三次郎",
+            "enabled": true,
+            "priority": 100,
+            "aid": "password-pwd-20260504162702-mfmswh",
+            "cipherText": "AHY1.eyJ2IjoxLCJhaWQiOiJwYXNzd29yZC1wd2QtMjAyNjA1MDQxNjI3MDItbWZtc3doIiwibiI6Ikprc2xMMWxaM05vMTd4eEYiLCJjIjoiUk9STkFqSTZ2N3N6IiwidCI6IkQ4N0pyVGhyRjdlNXdsclZqLTVDMUEifQ"
+        }
+    ]
+}
