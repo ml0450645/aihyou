@@ -1,5 +1,5 @@
 {
     "schema": 1,
     "algorithm": "Ed25519",
-    "signature": "of4L_aUjb8Tqa-TI4l4ZdOmIJ7fGFaBo-VZlnurDKyIBhR_AHZXwNZ_3_fNG82wJOKrVDE2oArbcQptNvG6oBw"
+    "signature": "uaonDnAPSrq-7FKp9yZG2GXr4cRY7ECJ5XKGocZp7z0K_zhIwFRWVTv-NfSepZvhkOudrzFVO9JhcesD87RBAA"
 }
