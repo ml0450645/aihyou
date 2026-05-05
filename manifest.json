@@ -1,7 +1,7 @@
 {
     "schema": 1,
-    "configVersion": 1006,
-    "generatedAt": "2026-05-05T22:10:56+00:00",
+    "configVersion": 1007,
+    "generatedAt": "2026-05-05T23:07:50+00:00",
     "minClientVersion": "1.1.0",
     "officialDomains": [
         "https://aihyou.top",
@@ -12,7 +12,7 @@
     "files": [
         {
             "path": "codes/short-codes.json",
-            "sha256": "50ecbb4f2222617a98e309b925c542b4817daf81c7fbaf4ac134965186d40038"
+            "sha256": "236ffa5390b0b9d74bc6debaa9792c5f49961716cbf8e3c73c8c7a10582646f7"
         },
         {
             "path": "rules/ad-rules.json",
