@@ -4,12 +4,41 @@
     "shortCodes": {
         "aihyou.top": {
             "type": "passwordPool",
-            "passwordProfileIds": []
+            "passwordProfileIds": [
+                "pwd-20260504210635-yozdbi",
+                "pwd-20260505114929-kem0qc",
+                "pwd-20260505115235-87c9e1"
+            ]
         },
         "aihyou.cc": {
             "type": "alias",
             "target": "aihyou.top"
         }
     },
-    "passwordProfiles": []
+    "passwordProfiles": [
+        {
+            "id": "pwd-20260504210635-yozdbi",
+            "label": "三次郎",
+            "enabled": true,
+            "priority": 100,
+            "aid": "password-pwd-20260504210635-yozdbi",
+            "cipherText": "AHY1.eyJ2IjoxLCJhaWQiOiJwYXNzd29yZC1wd2QtMjAyNjA1MDQyMTA2MzUteW96ZGJpIiwibiI6IkFNaVFhOTgxNHozRm9KOXYiLCJjIjoiMHRwek5qYUZKZ2ZmIiwidCI6ImFaUmNyeFhyLUg3WEZFWm42NTgzRncifQ"
+        },
+        {
+            "id": "pwd-20260505114929-kem0qc",
+            "label": "7899.fun",
+            "enabled": true,
+            "priority": 100,
+            "aid": "password-pwd-20260505114929-kem0qc",
+            "cipherText": "AHY1.eyJ2IjoxLCJhaWQiOiJwYXNzd29yZC1wd2QtMjAyNjA1MDUxMTQ5Mjkta2VtMHFjIiwibiI6IlFPc3BXSDZzeFJkQkREeUciLCJjIjoiVkRDNHBfeVdERmMiLCJ0IjoiaG1iMVZSY0lDaDZiNFd4RHBkR3lIZyJ9"
+        },
+        {
+            "id": "pwd-20260505115235-87c9e1",
+            "label": "123456789",
+            "enabled": true,
+            "priority": 100,
+            "aid": "password-pwd-20260505115235-87c9e1",
+            "cipherText": "AHY1.eyJ2IjoxLCJhaWQiOiJwYXNzd29yZC1wd2QtMjAyNjA1MDUxMTUyMzUtODdjOWUxIiwibiI6IlB3Z0FDbWRJS0JTYzRacGQiLCJjIjoiVW9XREpXUXlyMnVTIiwidCI6IjlRV1hWS3dvR3JDdFFURkZBdkp1QlEifQ"
+        }
+    ]
 }
