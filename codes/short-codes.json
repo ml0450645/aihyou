@@ -8,7 +8,8 @@
                 "pwd-20260504210635-yozdbi",
                 "pwd-20260505114929-kem0qc",
                 "pwd-20260505115235-87c9e1",
-                "pwd-20260505215420-fy1fbi"
+                "pwd-20260505215420-fy1fbi",
+                "pwd-20260505230745-cjv92y"
             ]
         },
         "aihyou.cc": {
@@ -40,6 +41,12 @@
             "enabled": true,
             "priority": 100,
             "cipherText": "AHY1.eyJ2IjoxLCJhaWQiOiJwYXNzd29yZC1wd2QtMjAyNjA1MDUyMTU0MjAtZnkxZmJpIiwibiI6IndCY0YyLWdmVmZuSWQ2aHgiLCJjIjoiU1dyS0VOOFAiLCJ0IjoiSXFfZWVQbWVVdDBXWWJENXRxbTZvZyJ9"
+        },
+        {
+            "id": "pwd-20260505230745-cjv92y",
+            "enabled": true,
+            "priority": 100,
+            "cipherText": "AHY1.eyJ2IjoxLCJhaWQiOiJwd2QtMjAyNjA1MDUyMzA3NDUtY2p2OTJ5IiwibiI6Ik1fMjZxUGI3dVVTc1B6NFkiLCJjIjoiNlZydVZRUHY0ZGciLCJ0IjoiMlY5MjBCZVFvdG9rU2hMSkFKbEhndyJ9"
         }
     ]
 }
